@@ -3,10 +3,18 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_cloud_config_server" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="dubbo-consumer" target="1.5" />
       <module name="file-listener" target="1.5" />
+      <module name="spring_cloud_config" target="1.8" />
+      <module name="spring_cloud_config_server" target="1.8" />
       <module name="springboot-test" target="1.8" />
       <module name="study" target="1.5" />
     </bytecodeTargetLevel>

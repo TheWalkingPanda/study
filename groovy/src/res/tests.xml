@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests type="test">
+    <test name="key1">
+        <value>value1</value>
+    </test>
+    <test name="key2">
+        <value>value2</value>
+    </test>
+    <test name="key3">
+        <value>value3</value>
+    </test>
+    <test name="key4">
+        <value>value4</value>
+    </test>
+    <test name="key5">
+        <value>value5</value>
+    </test>
+    <test name="key6">
+        <value>value6</value>
+    </test>
+</tests>

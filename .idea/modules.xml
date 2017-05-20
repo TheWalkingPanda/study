@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/groovy/groovy.iml" filepath="$PROJECT_DIR$/groovy/groovy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_config_server/spring_cloud_config_server.iml" filepath="$PROJECT_DIR$/spring_cloud_config_server/spring_cloud_config_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
     </modules>
   </component>

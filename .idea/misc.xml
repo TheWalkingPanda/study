@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_cloud_config_server/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -12,14 +11,13 @@
         <option value="$PROJECT_DIR$/dubbo-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/file-listener/pom.xml" />
         <option value="$PROJECT_DIR$/guava-test/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-server1/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-server2/pom.xml" />
         <option value="$PROJECT_DIR$/spring-file-monitor/pom.xml" />
       </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
-  </component>
-  <component name="TerminalProjectOptionsProvider">
-    <option name="myShellPath" value="D:\code\Git\bin\bash.exe" />
   </component>
 </project>

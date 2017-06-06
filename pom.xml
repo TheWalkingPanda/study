@@ -9,7 +9,21 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>spring_cloud_config</module>
+        <module>spring-cloud-config-server</module>
+        <module>eureka-server</module>
+        <module>config-client</module>
+        <module>config-client2</module>
+        <module>actuator-test</module>
+        <module>zhima</module>
+        <module>spring-boot-admin</module>
+        <module>test</module>
+        <module>ribbon-server1</module>
+        <module>ribbon-server2</module>
+        <module>ribbon-test</module>
+        <module>ribbon-test-server1</module>
+        <module>ribbon-test-server2</module>
+        <module>feign-test</module>
+        <module>ribbon-hystric-test</module>
     </modules>
 
 </project>

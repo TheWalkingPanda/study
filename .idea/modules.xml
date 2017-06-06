@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/actuator-test/actuator-test.iml" filepath="$PROJECT_DIR$/actuator-test/actuator-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client2/config-client2.iml" filepath="$PROJECT_DIR$/config-client2/config-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-test/feign-test.iml" filepath="$PROJECT_DIR$/feign-test/feign-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/groovy/groovy.iml" filepath="$PROJECT_DIR$/groovy/groovy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring_cloud_config_server/spring_cloud_config_server.iml" filepath="$PROJECT_DIR$/spring_cloud_config_server/spring_cloud_config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-hystrix-test/ribbon-hystric-test.iml" filepath="$PROJECT_DIR$/ribbon-hystrix-test/ribbon-hystric-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-test/ribbon-test.iml" filepath="$PROJECT_DIR$/ribbon-test/ribbon-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-test-server1/ribbon-test-server1.iml" filepath="$PROJECT_DIR$/ribbon-test-server1/ribbon-test-server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-test-server2/ribbon-test-server2.iml" filepath="$PROJECT_DIR$/ribbon-test-server2/ribbon-test-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhima/zhima.iml" filepath="$PROJECT_DIR$/zhima/zhima.iml" />
     </modules>
   </component>
 </project>

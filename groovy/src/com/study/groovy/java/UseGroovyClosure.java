@@ -13,7 +13,7 @@ public class UseGroovyClosure {
                 return "called from groovy";
             }
         });
-
+        System.out.println(ret);
         Object ret2 = instance.passToClosure(2, new Object(){
             public String call (int value) {
                 return "called from groovy, value is " + value;

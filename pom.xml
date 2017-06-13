@@ -17,13 +17,12 @@
         <module>zhima</module>
         <module>spring-boot-admin</module>
         <module>test</module>
-        <module>ribbon-server1</module>
-        <module>ribbon-server2</module>
         <module>ribbon-test</module>
         <module>ribbon-test-server1</module>
         <module>ribbon-test-server2</module>
         <module>feign-test</module>
-        <module>ribbon-hystric-test</module>
+        <module>ribbon-hystrix-test</module>
+        <module>zuul-test</module>
     </modules>
 
 </project>

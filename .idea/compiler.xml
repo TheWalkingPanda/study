@@ -21,6 +21,7 @@
         <module name="spring-cloud-config-server" />
         <module name="test" />
         <module name="zhima" />
+        <module name="zuul-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -39,6 +40,7 @@
       <module name="study" target="1.5" />
       <module name="test" target="1.5" />
       <module name="zhima" target="1.5" />
+      <module name="zuul-test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

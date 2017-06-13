@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @EnableDiscoveryClient
 @SpringBootApplication
-public class RibbonTestServer {
+public class RibbonTestServer1 {
     public static void main(String[] args) {
-        SpringApplication.run(RibbonTestServer.class, args);
+        SpringApplication.run(RibbonTestServer1.class, args);
     }
 
     @RequestMapping("/test")

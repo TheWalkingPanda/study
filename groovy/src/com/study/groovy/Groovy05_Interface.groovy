@@ -17,7 +17,7 @@ class Groovy05_Interface {
                 println 666
             }
         })
-
+        //groovy
         def test = [
                 test : {println "test1666"},
                 test2 : {println "test2666"}

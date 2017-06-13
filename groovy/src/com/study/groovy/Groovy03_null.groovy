@@ -9,7 +9,7 @@ class Groovy03_null {
         println foo(null)
     }
 
-    static def foo (str) {
+    static foo (str) {
         // [?.] 只有str不为null时才调用reverse()
         str?.reverse()
     }

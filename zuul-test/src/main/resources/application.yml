@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: zuulTest
+server:
+  port: 8095
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka
+zuul:
+  routes:
+    test1:
+      path: /test1/*
+      serviceId: testServer
+    test2:
+      path: /test2/*
+      serviceId: testServer2
